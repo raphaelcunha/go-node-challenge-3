@@ -1,0 +1,11 @@
+{
+  "name": "go-node-challenge-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MatheusMondenez/go-node-challenge-3.git",
+  "author": "Matheus Mondenez <matheus.mondenez@superlogica.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
