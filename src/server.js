@@ -1,4 +1,4 @@
-const expres = require('express')
+const express = require('express')
 const mongoose = require('mongoose')
 const dbConfig = require('./config/database')
 const routes = require('./routes')
@@ -26,7 +26,7 @@ class App {
     }
 
     routes(){
-        this.expres.use(routes)
+        this.express.use(routes)
     }
 }
 
