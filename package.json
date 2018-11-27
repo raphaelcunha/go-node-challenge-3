@@ -6,6 +6,7 @@
   "author": "Matheus Mondenez <matheus.mondenez@superlogica.com>",
   "license": "MPL-2.0",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
   }
 }
